@@ -1,0 +1,9 @@
+body{
+    background-color: red;
+}
+
+.ytp-show-cards-title{
+    display: none !important;
+    background-color: red;
+
+}
